@@ -1,0 +1,20 @@
+body {
+  font-size: 18px;
+}
+
+.profile-container {
+  margin-top: 20px;
+}
+
+.toggle-button {
+  background-color: green;
+  color: white;
+  font-size: 16px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+/* Add any additional styling as needed */
+
+
+
